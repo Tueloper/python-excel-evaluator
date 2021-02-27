@@ -11,7 +11,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3a45716a-03ab-4419-8502-215377c9abd4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/First Wave of CIC Expansion to Bulk Breakers_Lagos and Anambra.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Staff.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bulkbreakers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/people.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/staff.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.~lock.First Wave of CIC Expansion to Bulk Breakers_Lagos and Anambra.xlsx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.~lock.Lagos Bulk Breakers Order Taking Form(1-1187).xlsx#" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SampleData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/SampleData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulkbreakers.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/bulkbreakers.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,18 +45,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lTlWQQ84tpTaBj4AgAbaQZpuA5" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HelloWorld" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.sample">
+  <component name="RunManager" selected="Python.bulkbreakers">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="speadsheetEvaluator" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,6 +73,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bulkbreakers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="speadsheetEvaluator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bulkbreakers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,12 +145,14 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.speadsheetEvaluator" />
       <item itemvalue="Python.app" />
       <item itemvalue="Python.sample" />
-      <item itemvalue="Python.speadsheetEvaluator" />
+      <item itemvalue="Python.bulkbreakers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bulkbreakers" />
         <item itemvalue="Python.sample" />
         <item itemvalue="Python.app" />
         <item itemvalue="Python.speadsheetEvaluator" />
@@ -138,6 +180,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="282" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607844543651">
@@ -148,22 +194,22 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="802" y="142" width="424" height="493" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1607844286077" />
-    <state width="1337" height="206" key="GridCell.Tab.0.bottom" timestamp="1607888367702">
+    <state width="1337" height="51" key="GridCell.Tab.0.bottom" timestamp="1614447862281">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1337" height="206" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1607888367702" />
-    <state width="1337" height="206" key="GridCell.Tab.0.center" timestamp="1607888367701">
+    <state width="1337" height="51" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1614447862281" />
+    <state width="1337" height="51" key="GridCell.Tab.0.center" timestamp="1614447862280">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1337" height="206" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1607888367701" />
-    <state width="1337" height="206" key="GridCell.Tab.0.left" timestamp="1607888367697">
+    <state width="1337" height="51" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1614447862280" />
+    <state width="1337" height="51" key="GridCell.Tab.0.left" timestamp="1614447862280">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1337" height="206" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1607888367697" />
-    <state width="1337" height="206" key="GridCell.Tab.0.right" timestamp="1607888367701">
+    <state width="1337" height="51" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1614447862280" />
+    <state width="1337" height="51" key="GridCell.Tab.0.right" timestamp="1614447862280">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1337" height="206" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1607888367701" />
+    <state width="1337" height="51" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1614447862280" />
     <state width="1337" height="206" key="GridCell.Tab.1.bottom" timestamp="1607888367703">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
